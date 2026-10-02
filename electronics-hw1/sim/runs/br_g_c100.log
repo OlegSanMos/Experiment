@@ -1,0 +1,30 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27206
+uavg                =  1.332442e+01 from=  2.000000e-01 to=  2.666704e-01
+upp                 =  1.062417e-02 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.332969e+01 at=  2.628953e-01
+umin                =  1.331907e+01 at=  2.037568e-01
+ipusk               =  1.711316e+01 at=  6.616623e-04
+ipk                 =  9.102153e-02 at=  2.041568e-01
+irms                =  1.69319e-02 from=  2.00000e-01 to=  2.66667e-01
+iavg                =  1.647286e-06 from=  2.000000e-01 to=  2.666704e-01
+iabs                =  4.458263e-03 from=  2.000000e-01 to=  2.666704e-01
+ton                 =  2.036686e-01
+toff                =  2.046546e-01
+tset                =  6.234396e-02
+urev1               =  1.398106e+01 at=  2.625153e-01
+urev3               =  1.398105e+01 at=  2.541811e-01
+kp = 7.973458e-02
+tw = 9.860000e-04
+binary raw file "br_g_c100.raw"
+Note: Simulation executed from .control section 

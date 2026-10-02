@@ -1,0 +1,107 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27776
+uavg                =  1.200429e+01 from=  2.000000e-01 to=  2.666702e-01
+upp                 =  1.139207e-03 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.200485e+01 at=  2.543850e-01
+umin                =  1.200371e+01 at=  2.369754e-01
+ufavg               =  1.531876e+01 from=  2.000000e-01 to=  2.666702e-01
+ufpp                =  2.574959e-01 from=  2.000000e-01 to=  2.666667e-01
+izavg               =  -7.046820e-03 from=  2.000000e-01 to=  2.666702e-01
+izmin               =  -7.474141e-03 at=  2.543850e-01
+izmax               =  -6.619998e-03 at=  2.369754e-01
+R1 = 300:  Uavg = 12.0043  Upp = 0.00113921  Kp = 0.00949  Ufavg = 15.3188  Izavg = -0.00704682
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27752
+uavg                =  1.200292e+01 from=  2.000000e-01 to=  2.666709e-01
+upp                 =  1.069773e-03 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.200345e+01 at=  2.543858e-01
+umin                =  1.200238e+01 at=  2.036599e-01
+ufavg               =  1.533030e+01 from=  2.000000e-01 to=  2.666709e-01
+ufpp                =  2.352041e-01 from=  2.000000e-01 to=  2.666667e-01
+izavg               =  -6.082004e-03 from=  2.000000e-01 to=  2.666709e-01
+izmin               =  -6.436623e-03 at=  2.543858e-01
+izmax               =  -5.727481e-03 at=  2.036599e-01
+R1 = 330:  Uavg = 12.0029  Upp = 0.00106977  Kp = 0.00891261  Ufavg = 15.3303  Izavg = -0.006082
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27733
+uavg                =  1.200163e+01 from=  2.000000e-01 to=  2.666720e-01
+upp                 =  1.019561e-03 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.200213e+01 at=  2.377283e-01
+umin                =  1.200111e+01 at=  2.370074e-01
+ufavg               =  1.534000e+01 from=  2.000000e-01 to=  2.666720e-01
+ufpp                =  2.164756e-01 from=  2.000000e-01 to=  2.666667e-01
+izavg               =  -5.272713e-03 from=  2.000000e-01 to=  2.666720e-01
+izmin               =  -5.571728e-03 at=  2.377283e-01
+izmax               =  -4.973579e-03 at=  2.370074e-01
+R1 = 360:  Uavg = 12.0016  Upp = 0.00101956  Kp = 0.00849519  Ufavg = 15.34  Izavg = -0.00527271
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27716
+uavg                =  1.200038e+01 from=  2.000000e-01 to=  2.666731e-01
+upp                 =  9.846351e-04 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.200087e+01 at=  2.043971e-01
+umin                =  1.199988e+01 at=  2.203534e-01
+ufavg               =  1.534825e+01 from=  2.000000e-01 to=  2.666731e-01
+ufpp                =  2.005176e-01 from=  2.000000e-01 to=  2.666667e-01
+izavg               =  -4.584156e-03 from=  2.000000e-01 to=  2.666731e-01
+izmin               =  -4.839703e-03 at=  2.043971e-01
+izmax               =  -4.328408e-03 at=  2.203534e-01
+R1 = 390:  Uavg = 12.0004  Upp = 0.000984635  Kp = 0.00820503  Ufavg = 15.3483  Izavg = -0.00458416
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27694
+uavg                =  1.199877e+01 from=  2.000000e-01 to=  2.666694e-01
+upp                 =  9.577713e-04 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.199924e+01 at=  2.544038e-01
+umin                =  1.199828e+01 at=  2.537025e-01
+ufavg               =  1.535755e+01 from=  2.000000e-01 to=  2.666694e-01
+ufpp                =  1.825819e-01 from=  2.000000e-01 to=  2.666667e-01
+izavg               =  -3.811515e-03 from=  2.000000e-01 to=  2.666694e-01
+izmin               =  -4.022396e-03 at=  2.544038e-01
+izmax               =  -3.600334e-03 at=  2.537025e-01
+R1 = 430:  Uavg = 11.9988  Upp = 0.000957771  Kp = 0.00798225  Ufavg = 15.3575  Izavg = -0.00381152
+Note: Simulation executed from .control section 

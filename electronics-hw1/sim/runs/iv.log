@@ -1,0 +1,19 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: * vax diodov (mosyagin)
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+No. of Data Rows : 1601
+binary raw file "iv_d.raw"
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+No. of Data Rows : 11001
+binary raw file "iv_z.raw"
+Note: Simulation executed from .control section 

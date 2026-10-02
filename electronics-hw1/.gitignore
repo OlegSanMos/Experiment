@@ -1,0 +1,7 @@
+sim/runs/*.raw
+sim/runs/*_sweep_[0-9]*
+report/report.docx
+report/report.pdf
+report/headings.json
+report/pages_prev.json
+__pycache__/

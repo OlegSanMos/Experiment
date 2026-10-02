@@ -1,0 +1,25 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier + stabilizer
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27714
+uavg                =  1.220157e+01 from=  2.000000e-01 to=  2.666709e-01
+upp                 =  1.470676e-02 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.220879e+01 at=  2.543957e-01
+umin                =  1.219409e+01 at=  2.536837e-01
+ufavg               =  1.534645e+01 from=  2.000000e-01 to=  2.666709e-01
+ufpp                =  2.040288e-01 from=  2.000000e-01 to=  2.666667e-01
+izavg               =  -4.668595e-03 from=  2.000000e-01 to=  2.666709e-01
+izmin               =  -4.929327e-03 at=  2.543957e-01
+izmax               =  -4.408335e-03 at=  2.536837e-01
+kp = 1.205317e-01
+kpf = 1.329485e+00
+binary raw file "hw_stab_A.raw"
+Note: Simulation executed from .control section 

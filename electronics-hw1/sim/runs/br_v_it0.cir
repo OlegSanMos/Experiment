@@ -1,0 +1,30 @@
+* IVEP Mosyagin, var. 30: bridge rectifier
+V1 in 0 SIN(0 {Vm} 60)
+L1 in 0 {Ktr*Ktr*1u}
+L2 sec b 1u
+K1 L1 L2 0.99
+VA1 sec a 0
+D1 a out D_Mosyagin
+D2 b out D_Mosyagin
+D3 0 a D_Mosyagin
+D4 0 b D_Mosyagin
+C1 out 0 {Cf}
+Rn out 0 3k
+.model D_Mosyagin D(IS=3p N=1.05 RS=10m TT=5n CJO=7p)
+.param Vm=325.27 Ktr=22 Cf=10u
+.options reltol=1e-5 abstol=1e-12 vntol=1e-7 method=gear
+.control
+foreach val 1u 2u 3u 4u 5u 6u 7u 8u 9u 10u 11u 12u 13u 14u 15u 16u 17u 18u 19u 20u 21u 22u 23u 24u 25u 26u 27u 28u 29u 30u 31u 32u 33u 34u 35u 36u 37u 38u 39u 40u 41u 42u 43u 44u 45u 46u 47u 48u 49u 50u
+  alterparam Cf = $val
+  reset
+  tran 10u 0.27 0 10u uic
+  meas tran Uavg AVG v(out) from=0.2 to=0.2666667
+  meas tran Upp PP v(out) from=0.2 to=0.2666667
+  meas tran Umax MAX v(out) from=0.2 to=0.2666667
+  meas tran Umin MIN v(out) from=0.2 to=0.2666667
+  let Kp = 100*Upp/Uavg
+  echo "Cf = $val:  Uavg = $&Uavg  Upp = $&Upp  Kp = $&Kp"
+  destroy all
+end
+.endc
+.end

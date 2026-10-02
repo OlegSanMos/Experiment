@@ -1,0 +1,157 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27824
+uavg                =  1.510773e+01 from=  2.000000e-01 to=  2.666725e-01
+upp                 =  7.844912e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.549465e+01 at=  2.209938e-01
+umin                =  1.471016e+01 at=  2.533197e-01
+Cf = 100u:  Uavg = 15.1077  Upp = 0.784491  Kp = 5.19265
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27719
+uavg                =  1.528153e+01 from=  2.000000e-01 to=  2.666682e-01
+upp                 =  4.017369e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.548010e+01 at=  2.043625e-01
+umin                =  1.507836e+01 at=  2.535401e-01
+Cf = 200u:  Uavg = 15.2815  Upp = 0.401737  Kp = 2.6289
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27666
+uavg                =  1.533688e+01 from=  2.000000e-01 to=  2.666682e-01
+upp                 =  2.700754e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.547061e+01 at=  2.377162e-01
+umin                =  1.520054e+01 at=  2.203013e-01
+Cf = 300u:  Uavg = 15.3369  Upp = 0.270075  Kp = 1.76095
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27635
+uavg                =  1.536268e+01 from=  2.000000e-01 to=  2.666721e-01
+upp                 =  2.033920e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.546354e+01 at=  2.210607e-01
+umin                =  1.526014e+01 at=  2.536872e-01
+Cf = 400u:  Uavg = 15.3627  Upp = 0.203392  Kp = 1.32394
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27618
+uavg                =  1.537694e+01 from=  2.000000e-01 to=  2.666704e-01
+upp                 =  1.630981e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.545791e+01 at=  2.210722e-01
+umin                =  1.529482e+01 at=  2.203860e-01
+Cf = 500u:  Uavg = 15.3769  Upp = 0.163098  Kp = 1.06067
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27605
+uavg                =  1.538566e+01 from=  2.000000e-01 to=  2.666762e-01
+upp                 =  1.361153e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.545329e+01 at=  2.044157e-01
+umin                =  1.531718e+01 at=  2.037408e-01
+Cf = 600u:  Uavg = 15.3857  Upp = 0.136115  Kp = 0.884689
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27595
+uavg                =  1.539136e+01 from=  2.000000e-01 to=  2.666744e-01
+upp                 =  1.167830e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.544942e+01 at=  2.044181e-01
+umin                =  1.533264e+01 at=  2.204224e-01
+Cf = 700u:  Uavg = 15.3914  Upp = 0.116783  Kp = 0.758757
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27587
+uavg                =  1.539527e+01 from=  2.000000e-01 to=  2.666707e-01
+upp                 =  1.022554e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.544614e+01 at=  2.544266e-01
+umin                =  1.534389e+01 at=  2.037698e-01
+Cf = 800u:  Uavg = 15.3953  Upp = 0.102255  Kp = 0.6642
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27582
+uavg                =  1.539807e+01 from=  2.000000e-01 to=  2.666707e-01
+upp                 =  9.093840e-02 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.544333e+01 at=  2.044317e-01
+umin                =  1.535239e+01 at=  2.371120e-01
+Cf = 900u:  Uavg = 15.3981  Upp = 0.0909384  Kp = 0.590583
+Reset re-loads circuit * ivep mosyagin, var. 30: half-wave rectifier
+
+Circuit: * ivep mosyagin, var. 30: half-wave rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27577
+uavg                =  1.540013e+01 from=  2.000000e-01 to=  2.666765e-01
+upp                 =  8.187365e-02 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.544090e+01 at=  2.544375e-01
+umin                =  1.535903e+01 at=  2.537879e-01
+Cf = 1000u:  Uavg = 15.4001  Upp = 0.0818737  Kp = 0.531643
+Note: Simulation executed from .control section 

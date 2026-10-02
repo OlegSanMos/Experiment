@@ -1,0 +1,87 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28215
+uavg                =  1.357634e+01 from=  2.000000e-01 to=  2.666671e-01
+upp                 =  2.884575e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.493927e+01 at=  2.459201e-01
+umin                =  1.205469e+01 at=  2.608814e-01
+Ktr = 20:  Uavg = 13.5763  Upp = 2.88457  Kp = 21.2471
+binary raw file "br_b_sweep_20"
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28168
+uavg                =  1.288234e+01 from=  2.000000e-01 to=  2.666763e-01
+upp                 =  2.735827e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.417509e+01 at=  2.042557e-01
+umin                =  1.143926e+01 at=  2.442180e-01
+Ktr = 21:  Uavg = 12.8823  Upp = 2.73583  Kp = 21.237
+binary raw file "br_b_sweep_21"
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28115
+uavg                =  1.225160e+01 from=  2.000000e-01 to=  2.666680e-01
+upp                 =  2.600643e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348048e+01 at=  2.292578e-01
+umin                =  1.087984e+01 at=  2.025544e-01
+Ktr = 22:  Uavg = 12.2516  Upp = 2.60064  Kp = 21.227
+binary raw file "br_b_sweep_22"
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28075
+uavg                =  1.167574e+01 from=  2.000000e-01 to=  2.666682e-01
+upp                 =  2.477264e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.284638e+01 at=  2.292630e-01
+umin                =  1.036912e+01 at=  2.108905e-01
+Ktr = 23:  Uavg = 11.6757  Upp = 2.47726  Kp = 21.2172
+binary raw file "br_b_sweep_23"
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28026
+uavg                =  1.114789e+01 from=  2.000000e-01 to=  2.666752e-01
+upp                 =  2.364204e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.226521e+01 at=  2.042676e-01
+umin                =  9.901009e+00 at=  2.608934e-01
+Ktr = 24:  Uavg = 11.1479  Upp = 2.3642  Kp = 21.2076
+binary raw file "br_b_sweep_24"
+Note: Simulation executed from .control section 

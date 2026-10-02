@@ -1,0 +1,25 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier + stabilizer
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27164
+uavg                =  1.137345e+01 from=  2.000000e-01 to=  2.666754e-01
+upp                 =  8.363446e-02 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.141497e+01 at=  2.378664e-01
+umin                =  1.133134e+01 at=  2.536891e-01
+ufavg               =  1.186630e+01 from=  2.000000e-01 to=  2.666754e-01
+ufpp                =  8.725862e-02 from=  2.000000e-01 to=  2.666667e-01
+izavg               =  -1.138176e-11 from=  2.000000e-01 to=  2.666754e-01
+izmin               =  -1.479157e-09 at=  2.623854e-01
+izmax               =  6.971397e-11 at=  2.550491e-01
+kp = 7.353482e-01
+kpf = 7.353482e-01
+binary raw file "br_low.raw"
+Note: Simulation executed from .control section 

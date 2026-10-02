@@ -1,0 +1,18 @@
+* VAX diodov (Mosyagin)
+VD a 0 0
+D1 a 0 D_Mosyagin
+VZ k 0 0
+DZ1 0 k BZX84C12VL_Mosyagin
+.model D_Mosyagin D(IS=3p N=1.05 RS=10m TT=5n CJO=7p)
+.model BZX84C12VL_Mosyagin D(Is=926.42E-18 N=1.062
++ Rs=231.3m Ikf=4.908 Cjo=18.08p M=305.6m Vj=568m
++ Isr=4.364p Nr=4 Bv=12 Ibv=5m tt=185n Nbv=300m)
+.control
+dc VD 0 0.8 0.5m
+let id = -i(VD)
+write iv_d.raw v(a) id
+dc VZ 10 12.2 0.2m
+let iz = -i(VZ)
+write iv_z.raw v(k) iz
+.endc
+.end

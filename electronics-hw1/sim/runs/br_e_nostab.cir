@@ -1,0 +1,42 @@
+* IVEP Mosyagin, var. 30: bridge rectifier
+V1 in 0 SIN(0 {Vm} 60)
+L1 in 0 {Ktr*Ktr*1u}
+L2 sec b 1u
+K1 L1 L2 0.99
+VA1 sec a 0
+D1 a out D_Mosyagin
+D2 b out D_Mosyagin
+D3 0 a D_Mosyagin
+D4 0 b D_Mosyagin
+C1 out 0 {Cf}
+Rn out 0 3k
+.model D_Mosyagin D(IS=3p N=1.05 RS=10m TT=5n CJO=7p)
+.param Vm=357.8 Ktr=22 Cf=320u
+.options reltol=1e-5 abstol=1e-12 vntol=1e-7 method=gear
+.control
+tran 10u 0.27 0 10u uic
+meas tran Uavg AVG v(out) from=0.2 to=0.2666667
+meas tran Upp PP v(out) from=0.2 to=0.2666667
+meas tran Umax MAX v(out) from=0.2 to=0.2666667
+meas tran Umin MIN v(out) from=0.2 to=0.2666667
+let Kp = 100*Upp/Uavg
+let ia = abs(i(VA1))
+meas tran Ipusk MAX ia from=0 to=0.0333333
+meas tran Ipk MAX ia from=0.2 to=0.2666667
+meas tran Irms RMS i(VA1) from=0.2 to=0.2666667
+meas tran Iavg AVG i(VA1) from=0.2 to=0.2666667
+meas tran Iabs AVG ia from=0.2 to=0.2666667
+let thr = 0.01*Ipk
+meas tran ton WHEN ia=$&thr RISE=1 TD=0.2
+meas tran toff WHEN ia=$&thr FALL=1 TD=$&ton
+let tw = toff - ton
+let thr2 = Umin - 0.001*Uavg
+meas tran tset WHEN v(out)=$&thr2 CROSS=LAST
+let ud1 = v(out) - v(a)
+meas tran Urev1 MAX ud1 from=0.2 to=0.2666667
+let ud3 = v(a)
+meas tran Urev3 MAX ud3 from=0.2 to=0.2666667
+print Kp tw
+write br_e_nostab.raw v(in) v(sec) v(out) i(VA1) v(b)
+.endc
+.end

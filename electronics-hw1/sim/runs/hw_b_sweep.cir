@@ -1,0 +1,28 @@
+* IVEP Mosyagin, var. 30: half-wave rectifier
+V1 in 0 SIN(0 {Vm} 60)
+L1 in 0 {Ktr*Ktr*1u}
+L2 sec 0 1u
+K1 L1 L2 0.99
+VA1 sec a 0
+D1 a out D_Mosyagin
+C1 out 0 {Cf}
+Rn out 0 3k
+.model D_Mosyagin D(IS=3p N=1.05 RS=10m TT=5n CJO=7p)
+.param Vm=325.27 Ktr=10 Cf=10u
+.options reltol=1e-5 abstol=1e-12 vntol=1e-7 method=gear
+.control
+foreach val 18 19 20 21 22
+  alterparam Ktr = $val
+  reset
+  tran 10u 0.27 0 10u uic
+  meas tran Uavg AVG v(out) from=0.2 to=0.2666667
+  meas tran Upp PP v(out) from=0.2 to=0.2666667
+  meas tran Umax MAX v(out) from=0.2 to=0.2666667
+  meas tran Umin MIN v(out) from=0.2 to=0.2666667
+  let Kp = 100*Upp/Uavg
+  echo "Ktr = $val:  Uavg = $&Uavg  Upp = $&Upp  Kp = $&Kp"
+  write hw_b_sweep_$val v(sec) v(out)
+  destroy all
+end
+.endc
+.end

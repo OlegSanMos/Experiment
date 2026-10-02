@@ -1,0 +1,757 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28133
+uavg                =  9.114692e+00 from=  2.000000e-01 to=  2.666722e-01
+upp                 =  9.916228e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348932e+01 at=  2.208454e-01
+umin                =  3.573090e+00 at=  2.175231e-01
+Cf = 1u:  Uavg = 9.11469  Upp = 9.91623  Kp = 108.794
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28200
+uavg                =  1.005462e+01 from=  2.000000e-01 to=  2.666729e-01
+upp                 =  7.523352e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348889e+01 at=  2.625229e-01
+umin                =  5.965538e+00 at=  2.513369e-01
+Cf = 2u:  Uavg = 10.0546  Upp = 7.52335  Kp = 74.8248
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28220
+uavg                =  1.068889e+01 from=  2.000000e-01 to=  2.666747e-01
+upp                 =  6.055303e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348822e+01 at=  2.625347e-01
+umin                =  7.432921e+00 at=  2.599875e-01
+Cf = 3u:  Uavg = 10.6889  Upp = 6.0553  Kp = 56.6504
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28210
+uavg                =  1.112670e+01 from=  2.000000e-01 to=  2.666669e-01
+upp                 =  5.073215e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348737e+01 at=  2.542117e-01
+umin                =  8.414159e+00 at=  2.185485e-01
+Cf = 4u:  Uavg = 11.1267  Upp = 5.07322  Kp = 45.595
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28209
+uavg                =  1.144397e+01 from=  2.000000e-01 to=  2.666680e-01
+upp                 =  4.370367e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348639e+01 at=  2.125560e-01
+umin                =  9.116018e+00 at=  2.187229e-01
+Cf = 5u:  Uavg = 11.444  Upp = 4.37037  Kp = 38.1893
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28186
+uavg                =  1.168403e+01 from=  2.000000e-01 to=  2.666690e-01
+upp                 =  3.841995e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348530e+01 at=  2.208969e-01
+umin                =  9.643307e+00 at=  2.105273e-01
+Cf = 6u:  Uavg = 11.684  Upp = 3.84199  Kp = 32.8824
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28176
+uavg                =  1.187211e+01 from=  2.000000e-01 to=  2.666706e-01
+upp                 =  3.429862e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348415e+01 at=  2.042383e-01
+umin                =  1.005429e+01 at=  2.606405e-01
+Cf = 7u:  Uavg = 11.8721  Upp = 3.42986  Kp = 28.8901
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28153
+uavg                =  1.202335e+01 from=  2.000000e-01 to=  2.666746e-01
+upp                 =  3.099120e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348295e+01 at=  2.542465e-01
+umin                =  1.038383e+01 at=  2.024021e-01
+Cf = 8u:  Uavg = 12.0233  Upp = 3.09912  Kp = 25.7758
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28148
+uavg                =  1.214764e+01 from=  2.000000e-01 to=  2.666688e-01
+upp                 =  2.827611e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348172e+01 at=  2.042554e-01
+umin                =  1.065411e+01 at=  2.024825e-01
+Cf = 9u:  Uavg = 12.1476  Upp = 2.82761  Kp = 23.277
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28115
+uavg                =  1.225160e+01 from=  2.000000e-01 to=  2.666680e-01
+upp                 =  2.600643e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.348048e+01 at=  2.292578e-01
+umin                =  1.087984e+01 at=  2.025544e-01
+Cf = 10u:  Uavg = 12.2516  Upp = 2.60064  Kp = 21.227
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28097
+uavg                =  1.233977e+01 from=  2.000000e-01 to=  2.666763e-01
+upp                 =  2.407959e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.347924e+01 at=  2.292649e-01
+umin                =  1.107128e+01 at=  2.192833e-01
+Cf = 11u:  Uavg = 12.3398  Upp = 2.40796  Kp = 19.5138
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28086
+uavg                =  1.241562e+01 from=  2.000000e-01 to=  2.666746e-01
+upp                 =  2.242278e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.347799e+01 at=  2.626046e-01
+umin                =  1.123571e+01 at=  2.610055e-01
+Cf = 12u:  Uavg = 12.4156  Upp = 2.24228  Kp = 18.0601
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28057
+uavg                =  1.248147e+01 from=  2.000000e-01 to=  2.666766e-01
+upp                 =  2.098254e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.347675e+01 at=  2.042781e-01
+umin                =  1.137850e+01 at=  2.360542e-01
+Cf = 13u:  Uavg = 12.4815  Upp = 2.09825  Kp = 16.811
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28047
+uavg                =  1.253920e+01 from=  2.000000e-01 to=  2.666703e-01
+upp                 =  1.971862e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.347552e+01 at=  2.542821e-01
+umin                =  1.150366e+01 at=  2.110988e-01
+Cf = 14u:  Uavg = 12.5392  Upp = 1.97186  Kp = 15.7256
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28024
+uavg                =  1.259021e+01 from=  2.000000e-01 to=  2.666756e-01
+upp                 =  1.860009e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.347430e+01 at=  2.126256e-01
+umin                =  1.161429e+01 at=  2.111385e-01
+Cf = 15u:  Uavg = 12.5902  Upp = 1.86001  Kp = 14.7735
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 28006
+uavg                =  1.263561e+01 from=  2.000000e-01 to=  2.666679e-01
+upp                 =  1.760351e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.347311e+01 at=  2.459607e-01
+umin                =  1.171276e+01 at=  2.445095e-01
+Cf = 16u:  Uavg = 12.6356  Upp = 1.76035  Kp = 13.9317
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27993
+uavg                =  1.267627e+01 from=  2.000000e-01 to=  2.666766e-01
+upp                 =  1.670933e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.347192e+01 at=  2.459599e-01
+umin                =  1.180098e+01 at=  2.612105e-01
+Cf = 17u:  Uavg = 12.6763  Upp = 1.67093  Kp = 13.1816
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27961
+uavg                =  1.271288e+01 from=  2.000000e-01 to=  2.666739e-01
+upp                 =  1.590275e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.347076e+01 at=  2.209675e-01
+umin                =  1.188048e+01 at=  2.195749e-01
+Cf = 18u:  Uavg = 12.7129  Upp = 1.59028  Kp = 12.5092
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27953
+uavg                =  1.274601e+01 from=  2.000000e-01 to=  2.666753e-01
+upp                 =  1.517120e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.346961e+01 at=  2.459719e-01
+umin                =  1.195249e+01 at=  2.612703e-01
+Cf = 19u:  Uavg = 12.746  Upp = 1.51712  Kp = 11.9027
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27929
+uavg                =  1.277617e+01 from=  2.000000e-01 to=  2.666689e-01
+upp                 =  1.450465e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.346848e+01 at=  2.209755e-01
+umin                =  1.201801e+01 at=  2.196318e-01
+Cf = 20u:  Uavg = 12.7762  Upp = 1.45046  Kp = 11.3529
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27913
+uavg                =  1.280369e+01 from=  2.000000e-01 to=  2.666685e-01
+upp                 =  1.389481e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.346736e+01 at=  2.459811e-01
+umin                =  1.207788e+01 at=  2.029894e-01
+Cf = 21u:  Uavg = 12.8037  Upp = 1.38948  Kp = 10.8522
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27896
+uavg                =  1.282893e+01 from=  2.000000e-01 to=  2.666699e-01
+upp                 =  1.333464e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.346627e+01 at=  2.626499e-01
+umin                =  1.213281e+01 at=  2.280134e-01
+Cf = 22u:  Uavg = 12.8289  Upp = 1.33346  Kp = 10.3942
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27883
+uavg                =  1.285213e+01 from=  2.000000e-01 to=  2.666725e-01
+upp                 =  1.281829e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.346520e+01 at=  2.543200e-01
+umin                =  1.218337e+01 at=  2.530350e-01
+Cf = 23u:  Uavg = 12.8521  Upp = 1.28183  Kp = 9.97367
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27867
+uavg                =  1.287353e+01 from=  2.000000e-01 to=  2.666681e-01
+upp                 =  1.234074e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.346414e+01 at=  2.543228e-01
+umin                =  1.223006e+01 at=  2.197219e-01
+Cf = 24u:  Uavg = 12.8735  Upp = 1.23407  Kp = 9.58614
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27857
+uavg                =  1.289335e+01 from=  2.000000e-01 to=  2.666751e-01
+upp                 =  1.189780e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.346310e+01 at=  2.459926e-01
+umin                =  1.227332e+01 at=  2.447422e-01
+Cf = 25u:  Uavg = 12.8933  Upp = 1.18978  Kp = 9.22786
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27836
+uavg                =  1.291173e+01 from=  2.000000e-01 to=  2.666730e-01
+upp                 =  1.148578e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.346208e+01 at=  2.043294e-01
+umin                =  1.231350e+01 at=  2.030934e-01
+Cf = 26u:  Uavg = 12.9117  Upp = 1.14858  Kp = 8.89562
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27830
+uavg                =  1.292885e+01 from=  2.000000e-01 to=  2.666668e-01
+upp                 =  1.110152e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.346107e+01 at=  2.543317e-01
+umin                =  1.235092e+01 at=  2.531121e-01
+Cf = 27u:  Uavg = 12.9289  Upp = 1.11015  Kp = 8.58663
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27804
+uavg                =  1.294479e+01 from=  2.000000e-01 to=  2.666727e-01
+upp                 =  1.074233e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.346008e+01 at=  2.043324e-01
+umin                =  1.238584e+01 at=  2.281278e-01
+Cf = 28u:  Uavg = 12.9448  Upp = 1.07423  Kp = 8.29857
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27802
+uavg                =  1.295970e+01 from=  2.000000e-01 to=  2.666734e-01
+upp                 =  1.040585e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345911e+01 at=  2.210046e-01
+umin                =  1.241852e+01 at=  2.198099e-01
+Cf = 29u:  Uavg = 12.9597  Upp = 1.04059  Kp = 8.02939
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27788
+uavg                =  1.297366e+01 from=  2.000000e-01 to=  2.666737e-01
+upp                 =  1.008990e+00 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345815e+01 at=  2.626737e-01
+umin                =  1.244916e+01 at=  2.448243e-01
+Cf = 30u:  Uavg = 12.9737  Upp = 1.00899  Kp = 7.77722
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27773
+uavg                =  1.298675e+01 from=  2.000000e-01 to=  2.666754e-01
+upp                 =  9.792659e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345721e+01 at=  2.126754e-01
+umin                =  1.247794e+01 at=  2.115068e-01
+Cf = 31u:  Uavg = 12.9868  Upp = 0.979266  Kp = 7.5405
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27766
+uavg                =  1.299907e+01 from=  2.000000e-01 to=  2.666724e-01
+upp                 =  9.512581e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345628e+01 at=  2.543454e-01
+umin                =  1.250503e+01 at=  2.115194e-01
+Cf = 32u:  Uavg = 12.9991  Upp = 0.951258  Kp = 7.31789
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27754
+uavg                =  1.301065e+01 from=  2.000000e-01 to=  2.666730e-01
+upp                 =  9.248127e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345537e+01 at=  2.376806e-01
+umin                =  1.253056e+01 at=  2.615327e-01
+Cf = 33u:  Uavg = 13.0106  Upp = 0.924813  Kp = 7.10812
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27741
+uavg                =  1.302159e+01 from=  2.000000e-01 to=  2.666731e-01
+upp                 =  8.998006e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345448e+01 at=  2.210164e-01
+umin                =  1.255468e+01 at=  2.532098e-01
+Cf = 34u:  Uavg = 13.0216  Upp = 0.899801  Kp = 6.91007
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27736
+uavg                =  1.303191e+01 from=  2.000000e-01 to=  2.666734e-01
+upp                 =  8.761208e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345359e+01 at=  2.126882e-01
+umin                =  1.257747e+01 at=  2.282232e-01
+Cf = 35u:  Uavg = 13.0319  Upp = 0.876121  Kp = 6.72289
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27725
+uavg                =  1.304168e+01 from=  2.000000e-01 to=  2.666742e-01
+upp                 =  8.536562e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345272e+01 at=  2.043569e-01
+umin                =  1.259907e+01 at=  2.115686e-01
+Cf = 36u:  Uavg = 13.0417  Upp = 0.853656  Kp = 6.5456
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27712
+uavg                =  1.305093e+01 from=  2.000000e-01 to=  2.666720e-01
+upp                 =  8.323217e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345187e+01 at=  2.626920e-01
+umin                =  1.261955e+01 at=  2.115792e-01
+Cf = 37u:  Uavg = 13.0509  Upp = 0.832322  Kp = 6.37749
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27708
+uavg                =  1.305970e+01 from=  2.000000e-01 to=  2.666672e-01
+upp                 =  8.120267e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345102e+01 at=  2.293629e-01
+umin                =  1.263900e+01 at=  2.199225e-01
+Cf = 38u:  Uavg = 13.0597  Upp = 0.812027  Kp = 6.21781
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27698
+uavg                =  1.306802e+01 from=  2.000000e-01 to=  2.666716e-01
+upp                 =  7.927088e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.345020e+01 at=  2.376938e-01
+umin                =  1.265749e+01 at=  2.449321e-01
+Cf = 39u:  Uavg = 13.068  Upp = 0.792709  Kp = 6.06602
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27687
+uavg                =  1.307594e+01 from=  2.000000e-01 to=  2.666716e-01
+upp                 =  7.742888e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344938e+01 at=  2.543643e-01
+umin                =  1.267509e+01 at=  2.449424e-01
+Cf = 40u:  Uavg = 13.0759  Upp = 0.774289  Kp = 5.92148
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27678
+uavg                =  1.308347e+01 from=  2.000000e-01 to=  2.666758e-01
+upp                 =  7.567079e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344857e+01 at=  2.460322e-01
+umin                =  1.269186e+01 at=  2.366181e-01
+Cf = 41u:  Uavg = 13.0835  Upp = 0.756708  Kp = 5.78369
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27674
+uavg                =  1.309065e+01 from=  2.000000e-01 to=  2.666739e-01
+upp                 =  7.399063e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344778e+01 at=  2.293693e-01
+umin                =  1.270787e+01 at=  2.366283e-01
+Cf = 42u:  Uavg = 13.0907  Upp = 0.739906  Kp = 5.65217
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27660
+uavg                =  1.309749e+01 from=  2.000000e-01 to=  2.666765e-01
+upp                 =  7.238427e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344699e+01 at=  2.293702e-01
+umin                =  1.272315e+01 at=  2.116357e-01
+Cf = 43u:  Uavg = 13.0975  Upp = 0.723843  Kp = 5.52658
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27657
+uavg                =  1.310403e+01 from=  2.000000e-01 to=  2.666688e-01
+upp                 =  7.084607e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344622e+01 at=  2.043703e-01
+umin                =  1.273776e+01 at=  2.116440e-01
+Cf = 44u:  Uavg = 13.104  Upp = 0.708461  Kp = 5.40643
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27645
+uavg                =  1.311027e+01 from=  2.000000e-01 to=  2.666762e-01
+upp                 =  6.937208e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344546e+01 at=  2.127064e-01
+umin                =  1.275174e+01 at=  2.366524e-01
+Cf = 45u:  Uavg = 13.1103  Upp = 0.693721  Kp = 5.29143
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27641
+uavg                =  1.311623e+01 from=  2.000000e-01 to=  2.666684e-01
+upp                 =  6.795826e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344471e+01 at=  2.627084e-01
+umin                =  1.276513e+01 at=  2.033265e-01
+Cf = 46u:  Uavg = 13.1162  Upp = 0.679583  Kp = 5.18123
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27633
+uavg                =  1.312195e+01 from=  2.000000e-01 to=  2.666720e-01
+upp                 =  6.660101e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344397e+01 at=  2.460440e-01
+umin                =  1.277796e+01 at=  2.283343e-01
+Cf = 47u:  Uavg = 13.122  Upp = 0.66601  Kp = 5.07554
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27623
+uavg                =  1.312741e+01 from=  2.000000e-01 to=  2.666714e-01
+upp                 =  6.529706e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344324e+01 at=  2.627114e-01
+umin                =  1.279027e+01 at=  2.200082e-01
+Cf = 48u:  Uavg = 13.1274  Upp = 0.652971  Kp = 4.9741
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27616
+uavg                =  1.313266e+01 from=  2.000000e-01 to=  2.666753e-01
+upp                 =  6.404316e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344252e+01 at=  2.543803e-01
+umin                =  1.280208e+01 at=  2.033479e-01
+Cf = 49u:  Uavg = 13.1327  Upp = 0.640432  Kp = 4.87663
+Reset re-loads circuit * ivep mosyagin, var. 30: bridge rectifier
+
+Circuit: * ivep mosyagin, var. 30: bridge rectifier
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+Using transient initial conditions
+
+No. of Data Rows : 27608
+uavg                =  1.313769e+01 from=  2.000000e-01 to=  2.666701e-01
+upp                 =  6.283670e-01 from=  2.000000e-01 to=  2.666667e-01
+umax                =  1.344180e+01 at=  2.293809e-01
+umin                =  1.281344e+01 at=  2.033555e-01
+Cf = 50u:  Uavg = 13.1377  Upp = 0.628367  Kp = 4.78293
+Note: Simulation executed from .control section 
